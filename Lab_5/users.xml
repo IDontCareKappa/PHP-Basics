@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <userName>admin</userName>
+        <passwd>admin</passwd>
+        <fullName>Administrator</fullName>
+        <email>admin@gmail.com</email>
+        <date>2018-09-10</date>
+        <status>2</status>
+    </user>
+    <user>
+        <userName>beatap</userName>
+        <passwd>beatap</passwd>
+        <fullName>Beata P.</fullName>
+        <email>beatap@gmail.com</email>
+        <date>2018-10-10</date>
+        <status>1</status>
+    </user>
+    <user>
+        <userName>Test</userName>
+        <fullName>Test Test</fullName>
+        <email>Test@test.test</email>
+        <date>2021-11-16</date>
+        <passwd>$2y$10$zvcfW.39y.cw7cIyJkOPQ.D4HG2C1.pK3Cyey0iG03I2y.3VRorUO</passwd>
+        <status>1</status>
+    </user>
+<user><userName>Test</userName><fullName>Test Test</fullName><email>Test@test.test</email><date>2021-11-16</date><passwd>$2y$10$B8M6fDUCkfFgzi7k7Idkv.YD.fjoF71VYgsB5Jo4f09kXWEy8FKXS</passwd><status>1</status></user><user><userName>Test</userName><fullName>Test Test</fullName><email>Test@test.test</email><date>2021-11-16</date><passwd>$2y$10$fwwDawyFqDLeDFnyVhT61urep/8Ajt0yligunRvmK31vYE.m3E3Hu</passwd><status>1</status></user></users>
